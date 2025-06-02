@@ -1,6 +1,3 @@
-# session-fixation-lab
-this lab is design to get hands on session fixation  
-description:
 **Session Fixation** is a type of web security attack where an attacker forces a victim to use a specific session ID, allowing the attacker to hijack the victim's session once they authenticate. Unlike **session hijacking**, where an attacker steals an active session ID, session fixation occurs **before** authentication.
 
 ---
